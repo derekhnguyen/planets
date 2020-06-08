@@ -1,5 +1,8 @@
+
 This is your text file.
 
 But the mummy will appreciate the lack of humidity 
+
+we added a different line in the other copy
 
 
